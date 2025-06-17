@@ -5,3 +5,5 @@ nltk
 sentence-transformers
 faiss-cpu
 python-multipart
+pydantic
+typing-extensions
